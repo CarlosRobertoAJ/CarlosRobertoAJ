@@ -6,7 +6,8 @@ Check out my projects on GitHub :)
 
 
 # 💻 Tech Stack:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-Green?style=plastic&logo=Cypress&logoColor=180021&logoSize=auto&color=e7ffde&cacheSeconds=3600)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-Green?style=plastic&logo=Cypress&logoColor=180021&logoSize=auto&color=e7ffde&cacheSeconds=3600) ![Figma](https://img.shields.io/badge/Figma-black?style=plastic&logo=Figma&logoColor=ff4fcf&logoSize=auto&labelColor=281a19&color=281a19&cacheSeconds=3600)
+
 
   # 🌐 Socials:
  
