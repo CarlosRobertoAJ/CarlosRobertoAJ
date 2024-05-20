@@ -10,6 +10,7 @@ Check out my projects on GitHub :)
 ) ![Git](https://img.shields.io/badge/Git-Red?style=plastic&logo=Git&logoColor=111111&logoSize=auto&labelColor=ffa076&color=ffa076&cacheSeconds=3600) ![Draw.io](https://img.shields.io/badge/Draw.io-yellow?style=plastic&logo=Visio&logoColor=111111&logoSize=auto&labelColor=ffff00&cacheSeconds=3600
 ) ![VScode](https://img.shields.io/badge/VScode-grey?style=plastic&logo=VisualStudioCode&logoColor=00ced1&logoSize=auto&labelColor=afbfac&cacheSeconds=3600) ![Google Chrome](https://img.shields.io/badge/CoogleChrome-white?style=plastic&logo=Google%20Chrome&logoColor=7de148&logoSize=auto&labelColor=262414&cacheSeconds=3600
 ) ![Swagger](https://img.shields.io/badge/Swagger%20-%20black?style=plastic&logo=Swagger&logoColor=111111&logoSize=auto&color=ffffff&cacheSeconds=3600
+) ![Android](https://img.shields.io/badge/Android%20-%20Green?style=plastic&logo=Android&logoColor=23ff00&logoSize=auto&color=111111&cacheSeconds=3600
 )
 
 
