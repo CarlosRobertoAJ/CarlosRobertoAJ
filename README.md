@@ -26,7 +26,4 @@ Check out my projects on GitHub :)
 
 #
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosRobertoAJ}/count.svg" /></p> 
-<br></div>
+
