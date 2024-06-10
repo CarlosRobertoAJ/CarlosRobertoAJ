@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a meticulous and dedicated Test Analyst, focused on ensuring software quality and committed to continuous learning. With experience in Test Design, Web Testing, Test Documentation, API Testing (Postman), SQL/Database, Agile SCRUM methodology, and Bug Tracking (JIRA) applying BDD, I employ a results-oriented approach and user experience in every project. Currently, I'm studying automation with Cypress and Javascript.
+I am a meticulous and dedicated Test Analyst, focused on ensuring software quality and committed to continuous learning. With experience in Test Design, Web Testing, Test Documentation, API Testing (Postman), SQL/Database, Agile SCRUM methodology, and Bug Tracking (JIRA) applying BDD, I employ a results-oriented approach and prioritize user experience in every project. Currently, I am studying automation with Cypress and JavaScript.
 
 Check out my projects on GitHub :)
 
