@@ -6,12 +6,12 @@ Check out my projects on GitHub :)
 
 
 # 💻 Tech Stack:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-Green?style=plastic&logo=Cypress&logoColor=180021&logoSize=auto&color=e7ffde&cacheSeconds=3600) ![Figma](https://img.shields.io/badge/Figma-black?style=plastic&logo=Figma&logoColor=ff4fcf&logoSize=auto&labelColor=281a19&color=281a19&cacheSeconds=3600) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL&logoColor=111111&logoSize=auto&labelColor=a9a9a9&color=a9a9a9&cacheSeconds=3600
-) ![Git](https://img.shields.io/badge/Git-Red?style=plastic&logo=Git&logoColor=111111&logoSize=auto&labelColor=ffa076&color=ffa076&cacheSeconds=3600) ![Draw.io](https://img.shields.io/badge/Draw.io-yellow?style=plastic&logo=Visio&logoColor=111111&logoSize=auto&labelColor=ffff00&cacheSeconds=3600
-) ![VScode](https://img.shields.io/badge/VScode-grey?style=plastic&logo=VisualStudioCode&logoColor=00ced1&logoSize=auto&labelColor=afbfac&cacheSeconds=3600) ![Google Chrome](https://img.shields.io/badge/CoogleChrome-white?style=plastic&logo=Google%20Chrome&logoColor=7de148&logoSize=auto&labelColor=262414&cacheSeconds=3600
-) ![Swagger](https://img.shields.io/badge/Swagger%20-%20black?style=plastic&logo=Swagger&logoColor=111111&logoSize=auto&color=ffffff&cacheSeconds=3600
-) ![Android](https://img.shields.io/badge/Android%20-%20Green?style=plastic&logo=Android&logoColor=23ff00&logoSize=auto&color=111111&cacheSeconds=3600
-)
+[![My Skills](https://skillicons.dev/icons?i=postman,postgresql,cypress,vscode,notion,figma&theme=dark)](https://skillicons.dev)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+</p>
+
 
 
   # 🌐 Socials:
