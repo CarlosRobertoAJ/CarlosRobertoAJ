@@ -6,7 +6,7 @@ Check out my projects on GitHub :)
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=postman,postgresql,cypress,js,vscode,gherkin,git,notion,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,postgresql,cypress,js,vscode,gherkin,git,notion,figma)](https://skillicons.dev)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
